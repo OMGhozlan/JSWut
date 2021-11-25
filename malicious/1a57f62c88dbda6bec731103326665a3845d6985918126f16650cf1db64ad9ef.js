@@ -1,0 +1,2 @@
+function ggbOnInit() {}
+Ctrl+F

