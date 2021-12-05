@@ -1,0 +1,1 @@
+{"type":"Program","body":[{"type":"ClassDeclaration","id":{"type":"Identifier","name":"FreshClams"},"superClass":null,"body":{"type":"ClassBody","body":[]}},{"type":"ExportDefaultDeclaration","declaration":{"type":"Identifier","name":"FreshClams"}}],"sourceType":"module"}

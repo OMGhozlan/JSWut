@@ -1,0 +1,1 @@
+{"type":"Program","body":[{"type":"ExportDefaultDeclaration","declaration":{"type":"MemberExpression","computed":false,"object":{"type":"Identifier","name":"window"},"property":{"type":"Identifier","name":"jQuery"}}},{"type":"EmptyStatement"}],"sourceType":"module"}
